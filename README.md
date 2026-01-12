@@ -9,13 +9,8 @@
 - Crafting mechanics
 - Survival gameplay mechanics (basic interactions)
 
-**Automation testing:**
-- UI elements (menus, HUD)
-- Basic gameplay interactions (use item, state change validation)
-
 # What is demonstrated
 - Test design techniques
 - Gameplay and systems testing approach
 - Test documentation (checklists, test cases)
 - Bug reporting
-- Understanding of automation testing strategy for games
